@@ -16,3 +16,18 @@ This data analysis highlights the intricate relationships between agricultural p
 
 
 
+
+HW 2 - Hypothesis Testing:
+
+Using hypothesis testing, I examined three hypotheses related to the impact of climate change on global agriculture. 
+The first hypothesis focused on adaptation strategies and their economic outcomes. Through both permutation and z-tests, I found that drought-resistant crops significantly outperformed water management strategies economically (p = 0.004), but no significant difference was observed when comparing drought-resistant crops to no adaptation (p = 0.2075). However, this "close call" result suggests there may be economic benefits to using drought-resistant crops, though further research is needed to confirm the significance. The test comparing organic farming and drought-resistant crops yielded no significant difference (p = 0.98).
+The second hypothesis explored fertilizer use across different crop types. Results revealed a significant difference between fruits and barley (p = 0.0057), but the comparison between fruits and cotton produced a borderline result (p = 0.05). No significant difference was found between fruits and vegetables (p = 0.079).
+The third hypothesis investigated soil health across countries. Canada's soil health was significantly better than Australia's (p = 0.0029), while Australia had a close call in comparison to the USA (p = 0.044). Although this p-value is near the threshold for significance, it suggests that Australia's soil health might be comparable to the USA, but more data is needed to establish a stronger conclusion. There was no significant difference between Australia's and Nigeria's soil health (p = 0.99).
+
+Based on these analyses, three potential titles for the article are:
+"Do Certain Adaptation Practices Help Agriculture Industries Generate MORE Money?"
+"Are Our Crops FULL of Fertilizer and Other Chemicals?"
+"Global Soil Health: Some Countries Have Healthier Soil Than Others"
+
+
+
